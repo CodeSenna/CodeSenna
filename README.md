@@ -1,4 +1,4 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Oiii eu sou o Matheus Senna, programador!
 
 [![card](https://github-readme-stats.vercel.app/api?username=CodeSenna&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSenna&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
