@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é Matheus Senna!
+## 👾 Olá, meu nome é Matheus Senna!
 
 Faça uma breve apresentação sobre você e a sua stack.
 
