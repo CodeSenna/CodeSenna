@@ -1,10 +1,14 @@
 ## 👾 Olá, meu nome é Matheus Senna!
 
-Faça uma breve apresentação sobre você e a sua stack.
+💻Desenvolvedor Fullstack em formação
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+✨ Buscando experiência com freelas e novos desafios
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+
+
+
+💬 Quer trocar uma ideia, tirar dúvidas ou falar sobre projetos?
+Fique à vontade para entrar em contato! Estou sempre aberto para aprender, colaborar e conhecer novas pessoas. 😃
 
 ---
 
