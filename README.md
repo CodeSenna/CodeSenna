@@ -1,6 +1,6 @@
 ## 👾 Olá, meu nome é Matheus Senna!
 
-💻Desenvolvedor Fullstack em formação
+💻 Desenvolvedor Fullstack em formação
 
 ✨ Buscando experiência com freelas e novos desafios
 
